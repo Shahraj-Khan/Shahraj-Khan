@@ -65,14 +65,19 @@ Building scalable, modern and production-ready web applications with clean code 
 </p>
 
 ---
-# 🚀 What I'm Building
+## 🚧 What I'm Building
 
-I'm currently working on several full-stack applications, including:
+Currently working on private repositories focused on:
 
-- 🛒 E-Commerce Platform
+- 🛒 Full Stack E-Commerce Platform
 - 📚 Learning Management System
-- 💬 Realtime Chat Application
+- 💬 Real-time Chat Application
 
-> These projects are currently under active development in private repositories and will be published once they are production-ready.
+> 🚀 These projects will be open-sourced after production release.
+
+---
+<div align="center">
+   <strong>"Great software starts with a solid understanding of the problem"</strong>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:2563EB,100:7C3AED"/>
