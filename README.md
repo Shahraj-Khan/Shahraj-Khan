@@ -1,8 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:2563EB,100:7C3AED&text=Shahraj%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60"/>
+  
 <div align="center">
-
-# 👋 Hi, I'm Shahraj Khan
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js;Backend+Architecture+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 <p>
 Building scalable, modern and production-ready web applications with clean code and efficient backend architecture.
@@ -64,22 +65,14 @@ Building scalable, modern and production-ready web applications with clean code 
 </p>
 
 ---
+# 🚀 What I'm Building
 
-# 📊 GitHub Analytics
+I'm currently working on several full-stack applications, including:
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahraj-Khan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahraj-Khan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- 🛒 E-Commerce Platform
+- 📚 Learning Management System
+- 💬 Realtime Chat Application
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahraj-Khan&theme=tokyonight&hide_border=true"/>
-</p>
+> These projects are currently under active development in private repositories and will be published once they are production-ready.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahraj-Khan&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahraj-Khan&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:2563EB,100:7C3AED"/>
