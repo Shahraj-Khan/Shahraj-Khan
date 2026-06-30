@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js;Backend+Architecture+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<p>
+<p align="center">
 Building scalable, modern and production-ready web applications with clean code and efficient backend architecture.
 </p>
 
@@ -31,11 +31,11 @@ Building scalable, modern and production-ready web applications with clean code 
 
 ## 🚀 About Me
 
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning **System Design, Docker & AWS**
-- 🐛 Passionate about debugging and solving complex problems
-- ⚡ Focused on writing clean, scalable and maintainable code
-- 🎯 Goal: Build software that creates real-world impact
+- 💻 Full Stack Web Developer specializing in Laravel & React.
+- 🌱 Currently exploring System Design, Docker, and AWS.
+- 🐛 Passionate about debugging and solving real-world problems.
+- ⚡ Writing clean, scalable, and maintainable code.
+- 🎯 Building software that delivers real business value.
 ---
 
 # 💻 Tech Stack
@@ -62,6 +62,14 @@ Building scalable, modern and production-ready web applications with clean code 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma" />
+</p>
+
+---
+
+<h2 align="left">📊 GitHub Metrics</h2>
+
+<p align="left">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="70%" />
 </p>
 
 ---
