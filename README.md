@@ -35,3 +35,51 @@ Building scalable, modern and production-ready web applications with clean code 
 - 🐛 Passionate about debugging and solving complex problems
 - ⚡ Focused on writing clean, scalable and maintainable code
 - 🎯 Goal: Build software that creates real-world impact
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
+
+### Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,figma" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahraj-Khan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahraj-Khan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahraj-Khan&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahraj-Khan&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahraj-Khan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
